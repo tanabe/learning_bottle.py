@@ -4,6 +4,6 @@
         <script src="/static/main.js"></script>
     </head>
     <body>
-        Hello, world.
+        Hello, {{name}}
     </body>
 </html>
